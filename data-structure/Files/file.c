@@ -5,7 +5,7 @@ int main(){
     FILE *fp;
     char ch;
 
-    fp = fopen ("prog1.c", "r");
+    fp = fopen ("connectives.txt", "r");
 
     while(1){
 
